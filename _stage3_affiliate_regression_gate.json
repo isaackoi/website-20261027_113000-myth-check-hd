@@ -1,0 +1,240 @@
+{
+  "generated_at": "2026-10-27T11:19:40",
+  "passed": true,
+  "baseline": {
+    "article_pages": 18,
+    "amazon_specific_pages": 0,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Myths_and_misconcept_0d48d7": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_corrections_and_back_94d425": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 18,
+    "amazon_specific_pages": 0,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Myths_and_misconcept_0d48d7": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_corrections_and_back_94d425": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 18,
+  "regressions": []
+}

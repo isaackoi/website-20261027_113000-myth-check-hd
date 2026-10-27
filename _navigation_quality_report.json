@@ -1,0 +1,921 @@
+{
+  "generated_at_utc": "2026-10-27T11:19:36.877419Z",
+  "summary": {
+    "total_pages_with_permalink": 18,
+    "visible_pages": 18,
+    "hidden_pages": 0,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 22,
+    "inline_internal_target_page_count": 13,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 5,
+    "visible_pages_with_inline_outbound_links": 10,
+    "visible_pages_without_inline_outbound_links": 8,
+    "average_inline_inbound_links_per_visible_page": 1.22,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 18,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 105
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [
+      {
+        "basename": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_index",
+        "title": "All Topics",
+        "permalink": "/myths-and-misconcept-0d48d7-corrections/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_index",
+        "title": "All Topics",
+        "permalink": "/myths-and-misconcept-0d48d7-health-myths/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_index",
+        "title": "All Topics",
+        "permalink": "/myths-and-misconcept-0d48d7-index/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_index",
+        "title": "All Topics",
+        "permalink": "/myths-and-misconcept-0d48d7-verify/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_index",
+        "title": "All Topics",
+        "permalink": "/myths-and-misconcept-0d48d7-why-false/"
+      }
+    ],
+    "visible_without_inline_outbound_links": [
+      {
+        "basename": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "title": "Debunking",
+        "permalink": "/debunking/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d",
+        "title": "Facts and Votes",
+        "permalink": "/facts-and-votes/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "title": "Health Myths",
+        "permalink": "/when-health-myths-change-real-decisions/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553",
+        "title": "Antibiotic Myths",
+        "permalink": "/antibiotic-myths/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068",
+        "title": "MMR and Autism",
+        "permalink": "/how-a-retracted-mmr-claim-kept-spreading/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56",
+        "title": "Check Studies",
+        "permalink": "/check-studies/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833",
+        "title": "Verify Media",
+        "permalink": "/verify-media/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845",
+        "title": "False Consensus",
+        "permalink": "/false-consensus/"
+      }
+    ],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "Myths_and_misconcept_0d48d7",
+        "title": "Why Convincing Myths Survive the Facts",
+        "permalink": "/myths-and-misconceptions/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "title": "Debunking",
+        "permalink": "/debunking/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79",
+        "title": "Better Corrections",
+        "permalink": "/better-corrections/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d",
+        "title": "Facts and Votes",
+        "permalink": "/facts-and-votes/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_index",
+        "title": "All Topics",
+        "permalink": "/myths-and-misconcept-0d48d7-corrections/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "title": "Health Myths",
+        "permalink": "/when-health-myths-change-real-decisions/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553",
+        "title": "Antibiotic Myths",
+        "permalink": "/antibiotic-myths/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_index",
+        "title": "All Topics",
+        "permalink": "/myths-and-misconcept-0d48d7-health-myths/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068",
+        "title": "MMR and Autism",
+        "permalink": "/how-a-retracted-mmr-claim-kept-spreading/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_index",
+        "title": "All Topics",
+        "permalink": "/myths-and-misconcept-0d48d7-index/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "title": "Verify Claims",
+        "permalink": "/how-to-check-a-claim-before-sharing/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_index",
+        "title": "All Topics",
+        "permalink": "/myths-and-misconcept-0d48d7-verify/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56",
+        "title": "Check Studies",
+        "permalink": "/check-studies/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833",
+        "title": "Verify Media",
+        "permalink": "/verify-media/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "title": "Belief Psychology",
+        "permalink": "/belief-psychology/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab",
+        "title": "Source Memory",
+        "permalink": "/source-memory/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_index",
+        "title": "All Topics",
+        "permalink": "/myths-and-misconcept-0d48d7-why-false/"
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845",
+        "title": "False Consensus",
+        "permalink": "/false-consensus/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "title": "Debunking",
+        "permalink": "/debunking/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "title": "Health Myths",
+        "permalink": "/when-health-myths-change-real-decisions/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "title": "Verify Claims",
+        "permalink": "/how-to-check-a-claim-before-sharing/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "title": "Belief Psychology",
+        "permalink": "/belief-psychology/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7",
+        "title": "Why Convincing Myths Survive the Facts",
+        "permalink": "/myths-and-misconceptions/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79",
+        "title": "Better Corrections",
+        "permalink": "/better-corrections/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d",
+        "title": "Facts and Votes",
+        "permalink": "/facts-and-votes/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553",
+        "title": "Antibiotic Myths",
+        "permalink": "/antibiotic-myths/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068",
+        "title": "MMR and Autism",
+        "permalink": "/how-a-retracted-mmr-claim-kept-spreading/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56",
+        "title": "Check Studies",
+        "permalink": "/check-studies/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833",
+        "title": "Verify Media",
+        "permalink": "/verify-media/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab",
+        "title": "Source Memory",
+        "permalink": "/source-memory/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845",
+        "title": "False Consensus",
+        "permalink": "/false-consensus/",
+        "inline_inbound_count": 1
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_index",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_index",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_index",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_index",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_index",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845",
+        "type": "child"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab",
+        "type": "sibling"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_index",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_index",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_index",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_index",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_index",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_index",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_index",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_index",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_index",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_index",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_index",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_index",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "type": "parent"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_index",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_index",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "type": "ancestor"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_index",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_index",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_index",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_index",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_index",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_index",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_index",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_index",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_index",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_index",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_index",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_index",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_index",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_index",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_index",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_index",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_index",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845",
+        "type": "inline_internal"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "Myths_and_misconcept_0d48d7",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_index",
+        "to": "Myths_and_misconcept_0d48d7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_index",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_index",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_index",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_index",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_index",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_index",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_index",
+        "to": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_index",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_index",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_index",
+        "to": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_index",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_index",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_index",
+        "to": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_index",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_index",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_index",
+        "to": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

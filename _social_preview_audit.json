@@ -1,0 +1,1168 @@
+{
+  "schema_version": 1,
+  "status": "fail",
+  "generated_at": "2026-10-27T11:19:36.833831+00:00",
+  "summary": {
+    "public_articles": 19,
+    "valid_social_previews": 14,
+    "invalid_social_previews": 5,
+    "warning_count": 19,
+    "layout_counts": {
+      "image": 14,
+      "unknown": 5
+    }
+  },
+  "contact_sheet": "_social_preview_contact_sheet.jpg",
+  "experiment_manifest": "_social_card_experiment_manifest.jsonl",
+  "review_template": "_social_card_review_template.csv",
+  "launch_pack": "_social_launch_pack.json",
+  "launch_pack_markdown": "_social_launch_pack.md",
+  "launch_tracking": "_social_launch_tracking.csv",
+  "launch_candidate_count": 0,
+  "review_problem_codes": [
+    "weak_visual",
+    "bad_crop",
+    "too_much_text",
+    "redundant_copy",
+    "misleading_visual",
+    "generic"
+  ],
+  "pages": [
+    {
+      "page": "index.md",
+      "title": "Myth Check",
+      "permalink": "/",
+      "canonical_url": "",
+      "image": "/assets/images/social-preview-social-4052fdf446.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Myths and misconceptions\", with the article title in Branchoria branding.",
+      "layout": "image",
+      "level": 1,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "",
+        "image_role": "",
+        "layout": "image",
+        "hook_source": "legacy_or_unknown",
+        "copy_text": "",
+        "template_id": "canonical-v2"
+      },
+      "experiment": {
+        "page": "index.md",
+        "permalink": "/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-a71396d198c1",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "legacy_or_unknown",
+        "visual_source": "social-preview-social-4052fdf446.jpg",
+        "treatment_inputs": {
+          "permalink": "/",
+          "title": "Myth Check",
+          "template_id": "canonical-v2",
+          "copy_source": "legacy_or_unknown",
+          "copy_text": "",
+          "visual_source": "social-preview-social-4052fdf446.jpg",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7.md",
+      "title": "Why Convincing Myths Survive the Facts",
+      "permalink": "/myths-and-misconceptions/",
+      "canonical_url": "",
+      "image": "/assets/images/Myths_and_misconcept_0d48d7-Illustration-1-social-4683868ca6.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Myths and misconcept\", with A person at a desk compares a viral phone post with an original study, a newspaper, and handwritten verification notes beside the title.",
+      "layout": "image",
+      "level": 1,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Myths_and_misconcept_0d48d7-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "Myths and misconceptions are not simply foolish beliefs held by poorly informed people.",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 5.420639063074237,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Myths_and_misconcept_0d48d7-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 5.420639063074237,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7.md",
+        "permalink": "/myths-and-misconceptions/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-baf1a12c88a6",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Myths_and_misconcept_0d48d7-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/myths-and-misconceptions/",
+          "title": "Why Convincing Myths Survive the Facts",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "Myths and misconceptions are not simply foolish beliefs held by poorly informed people.",
+          "visual_source": "Myths_and_misconcept_0d48d7-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7_corrections_and_back_94d425.md",
+      "title": "Do Corrections Really Make Myths Stronger?",
+      "permalink": "/debunking/",
+      "canonical_url": "",
+      "image": "/assets/images/Myths_and_misconcept_0d48d7_corrections_and_back_94d425-Illustration-1-social-9e8263ea53.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Myths and misconcept corrections and back\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 2,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "Corrections usually reduce false belief, while genuine backfire effects are far less common than popular accounts suggest.",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 8.642735718715546,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 8.642735718715546,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7_corrections_and_back_94d425.md",
+        "permalink": "/debunking/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-45f1ed248443",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/debunking/",
+          "title": "Do Corrections Really Make Myths Stronger?",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "Corrections usually reduce false belief, while genuine backfire effects are far less common than popular accounts suggest.",
+          "visual_source": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79.md",
+      "title": "What Makes a Myth Correction Stick?",
+      "permalink": "/better-corrections/",
+      "canonical_url": "",
+      "image": "/assets/images/Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79-Illustration-1-social-5d114747df.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Myths and misconcept corrections and back corrections that sti\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 3,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "planned_sections[1]",
+        "copy_text": "How truth first structure and alternatives improve recall",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 7.0503294342613,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 7.0503294342613,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79.md",
+        "permalink": "/better-corrections/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-f74ee07f38d9",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "planned_sections[1]",
+        "visual_source": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/better-corrections/",
+          "title": "What Makes a Myth Correction Stick?",
+          "template_id": "canonical-v2",
+          "copy_source": "planned_sections[1]",
+          "copy_text": "How truth first structure and alternatives improve recall",
+          "visual_source": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d.md",
+      "title": "Why Corrected Facts May Not Change Votes",
+      "permalink": "/facts-and-votes/",
+      "canonical_url": "",
+      "image": "/assets/images/Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d-Illustration-1-social-a55a792656.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Myths and misconcept corrections and back fact checks beliefs\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 3,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "People may accept a factual correction yet keep the same political preference because voting also reflects identity, values and trust.",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 4.953933348263505,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 4.953933348263505,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d.md",
+        "permalink": "/facts-and-votes/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-2be11cd9d3ff",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/facts-and-votes/",
+          "title": "Why Corrected Facts May Not Change Votes",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "People may accept a factual correction yet keep the same political preference because voting also reflects identity, values and trust.",
+          "visual_source": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7_corrections_and_back_94d425_index.md",
+      "title": "Debunking: All Topics",
+      "permalink": "/myths-and-misconcept-0d48d7-corrections/",
+      "canonical_url": "",
+      "image": "",
+      "width": 0,
+      "height": 0,
+      "alt": "",
+      "layout": "unknown",
+      "level": 1,
+      "errors": [
+        "missing_social_image",
+        "missing_social_image_alt"
+      ],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": false,
+      "selection_provenance": {
+        "source_path": "",
+        "image_role": "",
+        "layout": "unknown",
+        "hook_source": "front_matter",
+        "copy_text": "Guide to sub-topic pages of Debunking, covering Better Corrections and Facts and Votes.",
+        "template_id": "canonical-v2"
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7_corrections_and_back_94d425_index.md",
+        "permalink": "/myths-and-misconcept-0d48d7-corrections/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-f7d8d4b02d9a",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "front_matter",
+        "visual_source": "",
+        "treatment_inputs": {
+          "permalink": "/myths-and-misconcept-0d48d7-corrections/",
+          "title": "Debunking: All Topics",
+          "template_id": "canonical-v2",
+          "copy_source": "front_matter",
+          "copy_text": "Guide to sub-topic pages of Debunking, covering Better Corrections and Facts and Votes.",
+          "visual_source": "",
+          "layout": "unknown"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5.md",
+      "title": "When Health Myths Change Real Decisions",
+      "permalink": "/when-health-myths-change-real-decisions/",
+      "canonical_url": "",
+      "image": "/assets/images/Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5-Illustration-1-social-638ca33a03.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Myths and misconcept health myths real\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 2,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "Vaccine scares, antibiotic misconceptions, and brain myths show how memorable errors can shape treatment choices and public trust.",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 5.129445568035648,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 5.129445568035648,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5.md",
+        "permalink": "/when-health-myths-change-real-decisions/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-0408240dad49",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/when-health-myths-change-real-decisions/",
+          "title": "When Health Myths Change Real Decisions",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "Vaccine scares, antibiotic misconceptions, and brain myths show how memorable errors can shape treatment choices and public trust.",
+          "visual_source": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553.md",
+      "title": "Why Antibiotics Do Not Cure Colds and Flu",
+      "permalink": "/antibiotic-myths/",
+      "canonical_url": "",
+      "image": "/assets/images/Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553-Illustration-1-social-183cec9d37.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Myths and misconcept health myths real co antibiotics viral\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 3,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "Antibiotics target bacteria rather than viruses, so unnecessary use adds side effects and resistance without treating colds or flu.",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 8.239059450799338,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 8.239059450799338,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553.md",
+        "permalink": "/antibiotic-myths/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-14f4e9809004",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/antibiotic-myths/",
+          "title": "Why Antibiotics Do Not Cure Colds and Flu",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "Antibiotics target bacteria rather than viruses, so unnecessary use adds side effects and resistance without treating colds or flu.",
+          "visual_source": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_index.md",
+      "title": "Health Myths: All Topics",
+      "permalink": "/myths-and-misconcept-0d48d7-health-myths/",
+      "canonical_url": "",
+      "image": "",
+      "width": 0,
+      "height": 0,
+      "alt": "",
+      "layout": "unknown",
+      "level": 1,
+      "errors": [
+        "missing_social_image",
+        "missing_social_image_alt"
+      ],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": false,
+      "selection_provenance": {
+        "source_path": "",
+        "image_role": "",
+        "layout": "unknown",
+        "hook_source": "front_matter",
+        "copy_text": "Guide to sub-topic pages of Health Myths, covering Antibiotic Myths and MMR and Autism.",
+        "template_id": "canonical-v2"
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_index.md",
+        "permalink": "/myths-and-misconcept-0d48d7-health-myths/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-ca6b5c4d7416",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "front_matter",
+        "visual_source": "",
+        "treatment_inputs": {
+          "permalink": "/myths-and-misconcept-0d48d7-health-myths/",
+          "title": "Health Myths: All Topics",
+          "template_id": "canonical-v2",
+          "copy_source": "front_matter",
+          "copy_text": "Guide to sub-topic pages of Health Myths, covering Antibiotic Myths and MMR and Autism.",
+          "visual_source": "",
+          "layout": "unknown"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068.md",
+      "title": "How a Retracted MMR Claim Kept Spreading",
+      "permalink": "/how-a-retracted-mmr-claim-kept-spreading/",
+      "canonical_url": "",
+      "image": "/assets/images/Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068-Illustration-1-social-50ad41ebe3.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Myths and misconcept health myths real co mmr autism retracted\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 3,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "planned_sections[0]",
+        "copy_text": "What the original paper could not establish",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 4.959838805815877,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 4.959838805815877,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068.md",
+        "permalink": "/how-a-retracted-mmr-claim-kept-spreading/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-193e16b2f0fd",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "planned_sections[0]",
+        "visual_source": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/how-a-retracted-mmr-claim-kept-spreading/",
+          "title": "How a Retracted MMR Claim Kept Spreading",
+          "template_id": "canonical-v2",
+          "copy_source": "planned_sections[0]",
+          "copy_text": "What the original paper could not establish",
+          "visual_source": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7_index.md",
+      "title": "Myths and misconceptions: All Topics",
+      "permalink": "/myths-and-misconcept-0d48d7-index/",
+      "canonical_url": "",
+      "image": "",
+      "width": 0,
+      "height": 0,
+      "alt": "",
+      "layout": "unknown",
+      "level": 1,
+      "errors": [
+        "missing_social_image",
+        "missing_social_image_alt"
+      ],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": false,
+      "selection_provenance": {
+        "source_path": "",
+        "image_role": "",
+        "layout": "unknown",
+        "hook_source": "front_matter",
+        "copy_text": "Guide to sub-topic pages of Myths and misconceptions, covering Debunking, Health Myths and Verify Claims and more.",
+        "template_id": "canonical-v2"
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7_index.md",
+        "permalink": "/myths-and-misconcept-0d48d7-index/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-3a78a3524bcb",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "front_matter",
+        "visual_source": "",
+        "treatment_inputs": {
+          "permalink": "/myths-and-misconcept-0d48d7-index/",
+          "title": "Myths and misconceptions: All Topics",
+          "template_id": "canonical-v2",
+          "copy_source": "front_matter",
+          "copy_text": "Guide to sub-topic pages of Myths and misconceptions, covering Debunking, Health Myths and Verify Claims and more.",
+          "visual_source": "",
+          "layout": "unknown"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20.md",
+      "title": "How to Check a Claim Before Sharing",
+      "permalink": "/how-to-check-a-claim-before-sharing/",
+      "canonical_url": "",
+      "image": "/assets/images/Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20-Illustration-1-social-b7813b92b8.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Myths and misconcept verify claims before\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 2,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "Tracing a claim to its origin, checking context, and reading laterally can expose errors that polished presentation conceals.",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 6.70680568380191,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 6.70680568380191,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20.md",
+        "permalink": "/how-to-check-a-claim-before-sharing/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-3775f6d2f37b",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/how-to-check-a-claim-before-sharing/",
+          "title": "How to Check a Claim Before Sharing",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "Tracing a claim to its origin, checking context, and reading laterally can expose errors that polished presentation conceals.",
+          "visual_source": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_index.md",
+      "title": "Verify Claims: All Topics",
+      "permalink": "/myths-and-misconcept-0d48d7-verify/",
+      "canonical_url": "",
+      "image": "",
+      "width": 0,
+      "height": 0,
+      "alt": "",
+      "layout": "unknown",
+      "level": 1,
+      "errors": [
+        "missing_social_image",
+        "missing_social_image_alt"
+      ],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": false,
+      "selection_provenance": {
+        "source_path": "",
+        "image_role": "",
+        "layout": "unknown",
+        "hook_source": "front_matter",
+        "copy_text": "Guide to sub-topic pages of Verify Claims, covering Check Studies and Verify Media.",
+        "template_id": "canonical-v2"
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_index.md",
+        "permalink": "/myths-and-misconcept-0d48d7-verify/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-e1586e0a7f4e",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "front_matter",
+        "visual_source": "",
+        "treatment_inputs": {
+          "permalink": "/myths-and-misconcept-0d48d7-verify/",
+          "title": "Verify Claims: All Topics",
+          "template_id": "canonical-v2",
+          "copy_source": "front_matter",
+          "copy_text": "Guide to sub-topic pages of Verify Claims, covering Check Studies and Verify Media.",
+          "visual_source": "",
+          "layout": "unknown"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56.md",
+      "title": "Does the Study Really Support the Headline?",
+      "permalink": "/check-studies/",
+      "canonical_url": "",
+      "image": "/assets/images/Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56-Illustration-1-social-423cb0cd4c.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Myths and misconcept verify claims before study claims vs head\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 3,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "planned_sections[0]",
+        "copy_text": "Trace the headline to the original paper",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 5.220910103133039,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 5.220910103133039,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56.md",
+        "permalink": "/check-studies/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-74dea9c0ac3e",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "planned_sections[0]",
+        "visual_source": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/check-studies/",
+          "title": "Does the Study Really Support the Headline?",
+          "template_id": "canonical-v2",
+          "copy_source": "planned_sections[0]",
+          "copy_text": "Trace the headline to the original paper",
+          "visual_source": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833.md",
+      "title": "Is That Viral Photo or Video Genuine?",
+      "permalink": "/verify-media/",
+      "canonical_url": "",
+      "image": "/assets/images/Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833-Illustration-1-social-5601bf8c04.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Myths and misconcept verify claims before verify viral photos\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 3,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "planned_sections[2]",
+        "copy_text": "Treat metadata and artificial intelligence detectors cautiously",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 5.36141681022602,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 5.36141681022602,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833.md",
+        "permalink": "/verify-media/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-91d65731b4af",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "planned_sections[2]",
+        "visual_source": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/verify-media/",
+          "title": "Is That Viral Photo or Video Genuine?",
+          "template_id": "canonical-v2",
+          "copy_source": "planned_sections[2]",
+          "copy_text": "Treat metadata and artificial intelligence detectors cautiously",
+          "visual_source": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752.md",
+      "title": "Why Repeated Claims Start Feeling True",
+      "permalink": "/belief-psychology/",
+      "canonical_url": "",
+      "image": "/assets/images/Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752-Illustration-1-social-d0a3fdc7c3.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Myths and misconcept why false claims fee\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 2,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "Familiarity, memory gaps, emotion, and social identity can make an unsupported claim feel more credible than it is.",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 5.683808623897464,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 5.683808623897464,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752.md",
+        "permalink": "/belief-psychology/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-675c4c0fd9b3",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/belief-psychology/",
+          "title": "Why Repeated Claims Start Feeling True",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "Familiarity, memory gaps, emotion, and social identity can make an unsupported claim feel more credible than it is.",
+          "visual_source": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab.md",
+      "title": "When the Claim Outlives Its Warning",
+      "permalink": "/source-memory/",
+      "canonical_url": "",
+      "image": "/assets/images/Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab-Illustration-1-social-d1f82d613d.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Myths and misconcept why false claims fee claims outlive sourc\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 3,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "A claim may remain familiar after its warning, correction, or unreliable source has faded from memory.",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 5.774375051681368,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 5.774375051681368,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab.md",
+        "permalink": "/source-memory/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-4209179b1836",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/source-memory/",
+          "title": "When the Claim Outlives Its Warning",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "A claim may remain familiar after its warning, correction, or unreliable source has faded from memory.",
+          "visual_source": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_index.md",
+      "title": "Belief Psychology: All Topics",
+      "permalink": "/myths-and-misconcept-0d48d7-why-false/",
+      "canonical_url": "",
+      "image": "",
+      "width": 0,
+      "height": 0,
+      "alt": "",
+      "layout": "unknown",
+      "level": 1,
+      "errors": [
+        "missing_social_image",
+        "missing_social_image_alt"
+      ],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": false,
+      "selection_provenance": {
+        "source_path": "",
+        "image_role": "",
+        "layout": "unknown",
+        "hook_source": "front_matter",
+        "copy_text": "Guide to sub-topic pages of Belief Psychology, covering Source Memory and False Consensus.",
+        "template_id": "canonical-v2"
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_index.md",
+        "permalink": "/myths-and-misconcept-0d48d7-why-false/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-27eccc34cbff",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "front_matter",
+        "visual_source": "",
+        "treatment_inputs": {
+          "permalink": "/myths-and-misconcept-0d48d7-why-false/",
+          "title": "Belief Psychology: All Topics",
+          "template_id": "canonical-v2",
+          "copy_source": "front_matter",
+          "copy_text": "Guide to sub-topic pages of Belief Psychology, covering Source Memory and False Consensus.",
+          "visual_source": "",
+          "layout": "unknown"
+        },
+        "distribution_urls": {}
+      }
+    },
+    {
+      "page": "pages/Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845.md",
+      "title": "When One Repeated Voice Sounds Like a Crowd",
+      "permalink": "/false-consensus/",
+      "canonical_url": "",
+      "image": "/assets/images/Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845-Illustration-1-social-b2b6d4ca02.jpg",
+      "width": 1200,
+      "height": 630,
+      "alt": "Preview card for \"Myths and misconcept why false claims fee repetition false soc\", with the selected article image beside the title.",
+      "layout": "image",
+      "level": 3,
+      "errors": [],
+      "warnings": [
+        "missing_site_url"
+      ],
+      "valid": true,
+      "selection_provenance": {
+        "source_path": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845-Illustration-1.webp",
+        "image_role": "hero",
+        "layout": "image",
+        "hook_source": "hero_summary",
+        "copy_text": "Repeated messages from one source can resemble broad agreement when reposts, recommendations, and attribution hide their common origin.",
+        "template_id": "canonical-v2",
+        "relevance": 0.0,
+        "semantic_tier": 2,
+        "visual_score": 5.119148342750827,
+        "selection_reason": "best_visual_within_semantic_tier",
+        "selection_confidence": "high",
+        "candidate_count": 1,
+        "candidates": [
+          {
+            "path": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845-Illustration-1.webp",
+            "image_role": "hero",
+            "relevance": 0.0,
+            "semantic_tier": 2,
+            "visual_score": 5.119148342750827,
+            "eligible": true,
+            "rejection_reason": "",
+            "layout": "image",
+            "containment_required": false
+          }
+        ]
+      },
+      "experiment": {
+        "page": "pages/Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845.md",
+        "permalink": "/false-consensus/",
+        "canonical_url": "",
+        "experiment_id": "",
+        "variant_id": "canonical-92ab1d5bf0f2",
+        "template_id": "canonical-v2",
+        "is_canonical": true,
+        "copy_source": "hero_summary",
+        "visual_source": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845-Illustration-1.webp",
+        "treatment_inputs": {
+          "permalink": "/false-consensus/",
+          "title": "When One Repeated Voice Sounds Like a Crowd",
+          "template_id": "canonical-v2",
+          "copy_source": "hero_summary",
+          "copy_text": "Repeated messages from one source can resemble broad agreement when reposts, recommendations, and attribution hide their common origin.",
+          "visual_source": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845-Illustration-1.webp",
+          "layout": "image"
+        },
+        "distribution_urls": {}
+      }
+    }
+  ]
+}

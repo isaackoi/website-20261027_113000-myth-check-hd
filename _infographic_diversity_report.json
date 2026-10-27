@@ -1,0 +1,320 @@
+{
+  "generated_at_utc": "2026-10-27T11:19:36.842443Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 13,
+    "pages_review_recommended": 0,
+    "warning_reason_counts": {}
+  },
+  "pages": [
+    {
+      "basename": "Myths_and_misconcept_0d48d7",
+      "title": "Why Convincing Myths Survive the Facts",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "timeline_history",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "chronology",
+        "comparison"
+      ],
+      "titles": [
+        "Defining False Beliefs",
+        "Why False Ideas Feel True",
+        "Debunking Effectiveness"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+      "title": "Do Corrections Really Make Myths Stronger?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "process_steps",
+        "quadrant"
+      ],
+      "roles": [
+        "summary",
+        "process",
+        "comparison"
+      ],
+      "titles": [
+        "Five Types of Misinformation Effects",
+        "Designing an Effective Correction",
+        "Correction Outcomes vs. Political Loyalty"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79",
+      "title": "What Makes a Myth Correction Stick?",
+      "infographic_count": 3,
+      "templates": [
+        "process_chevrons",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Truth Sandwich Build",
+        "Correction Timing Strategy",
+        "Common Correction Failures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d",
+      "title": "Why Corrected Facts May Not Change Votes",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Fact Check Impact Chain",
+        "Trump Fact Check Results",
+        "Mechanisms of Stable Support"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+      "title": "When Health Myths Change Real Decisions",
+      "infographic_count": 2,
+      "templates": [
+        "diverging_bars",
+        "cards_grid"
+      ],
+      "roles": [
+        "data",
+        "summary"
+      ],
+      "titles": [
+        "Antibiotic Use vs Viral Illness",
+        "Debunking Neuroscience Myths"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553",
+      "title": "Why Antibiotics Do Not Cure Colds and Flu",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "pyramid_levels"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Decision Path for Respiratory Illness",
+        "Antibiotics vs Viruses: The Reality Check",
+        "When Antibiotics Are Appropriate"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068",
+      "title": "How a Retracted MMR Claim Kept Spreading",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "fact_box_sidebar",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "MMR Controversy Key Stages",
+        "Study Design vs Public Claim",
+        "Why the Myth Persisted"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+      "title": "How to Check a Claim Before Sharing",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Lateral Reading Workflow",
+        "Verification Traps vs Reality",
+        "Claim Verification Outcomes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56",
+      "title": "Does the Study Really Support the Headline?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Claim Transmission Chain",
+        "Study Design vs Headline Claim",
+        "Common Headline Failures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833",
+      "title": "Is That Viral Photo or Video Genuine?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_history",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Viral Verification Workflow",
+        "Metadata vs Context Clues",
+        "Verdict Categories Explained"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+      "title": "Why Repeated Claims Start Feeling True",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Familiarity Becomes Evidence",
+        "Fluency vs. Source Memory",
+        "Limits of Repetition Effect"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab",
+      "title": "When the Claim Outlives Its Warning",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_chain",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Memory Decay Time line",
+        "Correction vs Myth Memory",
+        "Strategies to Bind Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845",
+      "title": "When One Repeated Voice Sounds Like a Crowd",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_history",
+        "quadrant",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Repetition Creates False Consensus",
+        "Platform Mechanics Amplify Claims",
+        "Verifying Claims vs. Circulation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

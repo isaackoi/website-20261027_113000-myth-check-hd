@@ -1,0 +1,627 @@
+{
+  "version": 1,
+  "page_count": 13,
+  "total_page_seconds": 880.4698,
+  "average_page_seconds": 67.7284,
+  "phase_totals_seconds": {
+    "youtube": 542.6957,
+    "media_svg": 327.2099,
+    "internal_links": 2.8613,
+    "content_assembly": 2.8159,
+    "quality_write": 2.1941,
+    "content_cleanup_final": 1.6816,
+    "monetization": 0.9748,
+    "content_cleanup_initial": 0.0344,
+    "preparation": 0.0016
+  },
+  "slowest_pages": [
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 104.945,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0027,
+        "internal_links": 0.5894,
+        "content_cleanup_final": 0.0923,
+        "media_svg": 26.3203,
+        "youtube": 77.4324,
+        "content_assembly": 0.2385,
+        "monetization": 0.0736,
+        "quality_write": 0.1956
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 101.8197,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0018,
+        "internal_links": 0.4925,
+        "content_cleanup_final": 0.0938,
+        "media_svg": 28.8317,
+        "youtube": 71.9388,
+        "content_assembly": 0.2731,
+        "monetization": 0.058,
+        "quality_write": 0.1298
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 86.0721,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 0.4221,
+        "content_cleanup_final": 0.1171,
+        "media_svg": 29.9215,
+        "youtube": 54.7205,
+        "content_assembly": 0.448,
+        "monetization": 0.202,
+        "quality_write": 0.2392
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 81.3359,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 0.299,
+        "content_cleanup_final": 0.0973,
+        "media_svg": 29.3728,
+        "youtube": 51.1465,
+        "content_assembly": 0.287,
+        "monetization": 0.0396,
+        "quality_write": 0.0923
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 64.6041,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0061,
+        "internal_links": 0.3066,
+        "content_cleanup_final": 0.095,
+        "media_svg": 26.7219,
+        "youtube": 37.1278,
+        "content_assembly": 0.2124,
+        "monetization": 0.0429,
+        "quality_write": 0.0912
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 64.0714,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 0.1026,
+        "content_cleanup_final": 0.1765,
+        "media_svg": 25.3712,
+        "youtube": 37.9551,
+        "content_assembly": 0.1967,
+        "monetization": 0.0813,
+        "quality_write": 0.1861
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 63.4627,
+      "phases": {
+        "preparation": 0.0002,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 0.3664,
+        "content_cleanup_final": 0.0827,
+        "media_svg": 24.2322,
+        "youtube": 38.3596,
+        "content_assembly": 0.162,
+        "monetization": 0.0795,
+        "quality_write": 0.1787
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 63.3008,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0022,
+        "internal_links": 0.046,
+        "content_cleanup_final": 0.2235,
+        "media_svg": 23.2081,
+        "youtube": 39.3221,
+        "content_assembly": 0.2492,
+        "monetization": 0.074,
+        "quality_write": 0.1756
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 57.9891,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 0.0782,
+        "content_cleanup_final": 0.1578,
+        "media_svg": 22.4019,
+        "youtube": 34.6764,
+        "content_assembly": 0.2384,
+        "monetization": 0.1182,
+        "quality_write": 0.3163
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 52.4998,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0031,
+        "internal_links": 0.0324,
+        "content_cleanup_final": 0.1699,
+        "media_svg": 22.7402,
+        "youtube": 29.0813,
+        "content_assembly": 0.1746,
+        "monetization": 0.0448,
+        "quality_write": 0.2535
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 51.4171,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0377,
+        "content_cleanup_final": 0.0947,
+        "media_svg": 22.4489,
+        "youtube": 28.5189,
+        "content_assembly": 0.1169,
+        "monetization": 0.0752,
+        "quality_write": 0.1241
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 46.4848,
+      "phases": {
+        "preparation": 0.0002,
+        "content_cleanup_initial": 0.0098,
+        "internal_links": 0.068,
+        "content_cleanup_final": 0.1345,
+        "media_svg": 21.8531,
+        "youtube": 24.145,
+        "content_assembly": 0.1042,
+        "monetization": 0.044,
+        "quality_write": 0.126
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 42.4673,
+      "phases": {
+        "preparation": 0.0002,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0204,
+        "content_cleanup_final": 0.1465,
+        "media_svg": 23.7861,
+        "youtube": 18.2713,
+        "content_assembly": 0.1149,
+        "monetization": 0.0417,
+        "quality_write": 0.0857
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "Myths_and_misconcept_0d48d7",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 86.0721,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0015,
+        "internal_links": 0.4221,
+        "content_cleanup_final": 0.1171,
+        "media_svg": 29.9215,
+        "youtube": 54.7205,
+        "content_assembly": 0.448,
+        "monetization": 0.202,
+        "quality_write": 0.2392
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 81.3359,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0014,
+        "internal_links": 0.299,
+        "content_cleanup_final": 0.0973,
+        "media_svg": 29.3728,
+        "youtube": 51.1465,
+        "content_assembly": 0.287,
+        "monetization": 0.0396,
+        "quality_write": 0.0923
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 101.8197,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0018,
+        "internal_links": 0.4925,
+        "content_cleanup_final": 0.0938,
+        "media_svg": 28.8317,
+        "youtube": 71.9388,
+        "content_assembly": 0.2731,
+        "monetization": 0.058,
+        "quality_write": 0.1298
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 64.6041,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0061,
+        "internal_links": 0.3066,
+        "content_cleanup_final": 0.095,
+        "media_svg": 26.7219,
+        "youtube": 37.1278,
+        "content_assembly": 0.2124,
+        "monetization": 0.0429,
+        "quality_write": 0.0912
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 104.945,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0027,
+        "internal_links": 0.5894,
+        "content_cleanup_final": 0.0923,
+        "media_svg": 26.3203,
+        "youtube": 77.4324,
+        "content_assembly": 0.2385,
+        "monetization": 0.0736,
+        "quality_write": 0.1956
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 63.4627,
+      "phases": {
+        "preparation": 0.0002,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 0.3664,
+        "content_cleanup_final": 0.0827,
+        "media_svg": 24.2322,
+        "youtube": 38.3596,
+        "content_assembly": 0.162,
+        "monetization": 0.0795,
+        "quality_write": 0.1787
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 64.0714,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 0.1026,
+        "content_cleanup_final": 0.1765,
+        "media_svg": 25.3712,
+        "youtube": 37.9551,
+        "content_assembly": 0.1967,
+        "monetization": 0.0813,
+        "quality_write": 0.1861
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_antibiotics_viral_in_a67553",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 46.4848,
+      "phases": {
+        "preparation": 0.0002,
+        "content_cleanup_initial": 0.0098,
+        "internal_links": 0.068,
+        "content_cleanup_final": 0.1345,
+        "media_svg": 21.8531,
+        "youtube": 24.145,
+        "content_assembly": 0.1042,
+        "monetization": 0.044,
+        "quality_write": 0.126
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 57.9891,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0017,
+        "internal_links": 0.0782,
+        "content_cleanup_final": 0.1578,
+        "media_svg": 22.4019,
+        "youtube": 34.6764,
+        "content_assembly": 0.2384,
+        "monetization": 0.1182,
+        "quality_write": 0.3163
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 52.4998,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0031,
+        "internal_links": 0.0324,
+        "content_cleanup_final": 0.1699,
+        "media_svg": 22.7402,
+        "youtube": 29.0813,
+        "content_assembly": 0.1746,
+        "monetization": 0.0448,
+        "quality_write": 0.2535
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 42.4673,
+      "phases": {
+        "preparation": 0.0002,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0204,
+        "content_cleanup_final": 0.1465,
+        "media_svg": 23.7861,
+        "youtube": 18.2713,
+        "content_assembly": 0.1149,
+        "monetization": 0.0417,
+        "quality_write": 0.0857
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 51.4171,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0377,
+        "content_cleanup_final": 0.0947,
+        "media_svg": 22.4489,
+        "youtube": 28.5189,
+        "content_assembly": 0.1169,
+        "monetization": 0.0752,
+        "quality_write": 0.1241
+      }
+    },
+    {
+      "base_name": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 63.3008,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0022,
+        "internal_links": 0.046,
+        "content_cleanup_final": 0.2235,
+        "media_svg": 23.2081,
+        "youtube": 39.3221,
+        "content_assembly": 0.2492,
+        "monetization": 0.074,
+        "quality_write": 0.1756
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 13,
+    "reused_pages": 0,
+    "rebuilt_pages": 13,
+    "error_pages": 0,
+    "page_work_wall_seconds": 343.6409,
+    "rebuilt_pages_per_minute": 2.2698,
+    "queued_rebuild_pages_per_minute": 2.2698,
+    "apparent_page_work_speedup": 2.5622,
+    "youtube_cache_prepare": {
+      "entries": 19,
+      "updated": true,
+      "elapsed_seconds": 0.0759
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 13,
+      "successful_pages": 13,
+      "failed_pages": 0,
+      "worker_summary": {
+        "25192": {
+          "pages": 5,
+          "successes": 5,
+          "failures": 0,
+          "total_worker_seconds": 310.0417,
+          "max_worker_seconds": 86.1626,
+          "last_base_name": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_repetition_false_soc_00f845"
+        },
+        "28184": {
+          "pages": 4,
+          "successes": 4,
+          "failures": 0,
+          "total_worker_seconds": 295.8796,
+          "max_worker_seconds": 104.995,
+          "last_base_name": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752_claims_outlive_sourc_c918ab"
+        },
+        "27300": {
+          "pages": 4,
+          "successes": 4,
+          "failures": 0,
+          "total_worker_seconds": 275.2855,
+          "max_worker_seconds": 101.872,
+          "last_base_name": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "Myths_and_misconcept_0d48d7_why_false_claims_fee_bfb752",
+          "level": 2,
+          "success": true,
+          "worker_pid": 28184,
+          "worker_duration_seconds": 104.995,
+          "total_seconds": 104.945,
+          "worker_started_at_utc": "2026-10-27T11:15:49.986835Z",
+          "worker_finished_at_utc": "2026-10-27T11:17:34.931894Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5",
+          "level": 2,
+          "success": true,
+          "worker_pid": 27300,
+          "worker_duration_seconds": 101.872,
+          "total_seconds": 101.8197,
+          "worker_started_at_utc": "2026-10-27T11:14:56.646122Z",
+          "worker_finished_at_utc": "2026-10-27T11:16:38.465862Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Myths_and_misconcept_0d48d7",
+          "level": 1,
+          "success": true,
+          "worker_pid": 25192,
+          "worker_duration_seconds": 86.1626,
+          "total_seconds": 86.0721,
+          "worker_started_at_utc": "2026-10-27T11:14:09.108336Z",
+          "worker_finished_at_utc": "2026-10-27T11:15:35.180493Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425",
+          "level": 2,
+          "success": true,
+          "worker_pid": 28184,
+          "worker_duration_seconds": 81.3927,
+          "total_seconds": 81.3359,
+          "worker_started_at_utc": "2026-10-27T11:14:28.592674Z",
+          "worker_finished_at_utc": "2026-10-27T11:15:49.928651Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20",
+          "level": 2,
+          "success": true,
+          "worker_pid": 25192,
+          "worker_duration_seconds": 64.6608,
+          "total_seconds": 64.6041,
+          "worker_started_at_utc": "2026-10-27T11:15:35.273771Z",
+          "worker_finished_at_utc": "2026-10-27T11:16:39.877923Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_verify_viral_photos_12b833",
+          "level": 3,
+          "success": true,
+          "worker_pid": 25192,
+          "worker_duration_seconds": 64.1518,
+          "total_seconds": 64.0714,
+          "worker_started_at_utc": "2026-10-27T11:16:39.935188Z",
+          "worker_finished_at_utc": "2026-10-27T11:17:44.006634Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_fact_checks_beliefs_2e1b7d",
+          "level": 3,
+          "success": true,
+          "worker_pid": 27300,
+          "worker_duration_seconds": 63.4959,
+          "total_seconds": 63.4627,
+          "worker_started_at_utc": "2026-10-27T11:16:38.518638Z",
+          "worker_finished_at_utc": "2026-10-27T11:17:41.981389Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Myths_and_misconcept_0d48d7_verify_claims_before_3c6d20_study_claims_vs_head_b8ac56",
+          "level": 3,
+          "success": true,
+          "worker_pid": 27300,
+          "worker_duration_seconds": 63.3851,
+          "total_seconds": 63.3008,
+          "worker_started_at_utc": "2026-10-27T11:18:28.551685Z",
+          "worker_finished_at_utc": "2026-10-27T11:19:31.852566Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Myths_and_misconcept_0d48d7_corrections_and_back_94d425_corrections_that_sti_dcca79",
+          "level": 3,
+          "success": true,
+          "worker_pid": 28184,
+          "worker_duration_seconds": 58.039,
+          "total_seconds": 57.9891,
+          "worker_started_at_utc": "2026-10-27T11:17:34.982492Z",
+          "worker_finished_at_utc": "2026-10-27T11:18:32.971692Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Myths_and_misconcept_0d48d7_health_myths_real_co_a554b5_mmr_autism_retracted_873068",
+          "level": 3,
+          "success": true,
+          "worker_pid": 25192,
+          "worker_duration_seconds": 52.5616,
+          "total_seconds": 52.4998,
+          "worker_started_at_utc": "2026-10-27T11:17:44.087561Z",
+          "worker_finished_at_utc": "2026-10-27T11:18:36.587438Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

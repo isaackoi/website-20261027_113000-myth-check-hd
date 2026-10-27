@@ -1,0 +1,60 @@
+sidebar_generated:
+- title: Myth Check
+  title_full: Why Convincing Myths Survive the Facts
+  url: /myths-and-misconceptions/
+  children:
+  - title: Belief Psychology
+    title_full: Why Repeated Claims Start Feeling True | Myth Check
+    url: /belief-psychology/
+    children:
+    - title: False Consensus
+      title_full: When One Repeated Voice Sounds Like a Crowd | Belief Psychology
+      url: /false-consensus/
+    - title: Source Memory
+      title_full: When the Claim Outlives Its Warning | Belief Psychology
+      url: /source-memory/
+    - title: All Topics
+      title_full: 'Belief Psychology: All Topics'
+      url: /myths-and-misconcept-0d48d7-why-false/
+  - title: Debunking
+    title_full: Do Corrections Really Make Myths Stronger? | Myth Check
+    url: /debunking/
+    children:
+    - title: Better Corrections
+      title_full: What Makes a Myth Correction Stick? | Debunking
+      url: /better-corrections/
+    - title: Facts and Votes
+      title_full: Why Corrected Facts May Not Change Votes | Debunking
+      url: /facts-and-votes/
+    - title: All Topics
+      title_full: 'Debunking: All Topics'
+      url: /myths-and-misconcept-0d48d7-corrections/
+  - title: Health Myths
+    title_full: When Health Myths Change Real Decisions | Myth Check
+    url: /when-health-myths-change-real-decisions/
+    children:
+    - title: Antibiotic Myths
+      title_full: Why Antibiotics Do Not Cure Colds and Flu | Health Myths
+      url: /antibiotic-myths/
+    - title: MMR and Autism
+      title_full: How a Retracted MMR Claim Kept Spreading | Health Myths
+      url: /how-a-retracted-mmr-claim-kept-spreading/
+    - title: All Topics
+      title_full: 'Health Myths: All Topics'
+      url: /myths-and-misconcept-0d48d7-health-myths/
+  - title: Verify Claims
+    title_full: How to Check a Claim Before Sharing | Myth Check
+    url: /how-to-check-a-claim-before-sharing/
+    children:
+    - title: Check Studies
+      title_full: Does the Study Really Support the Headline? | Verify Claims
+      url: /check-studies/
+    - title: Verify Media
+      title_full: Is That Viral Photo or Video Genuine? | Verify Claims
+      url: /verify-media/
+    - title: All Topics
+      title_full: 'Verify Claims: All Topics'
+      url: /myths-and-misconcept-0d48d7-verify/
+  - title: All Topics
+    title_full: 'Myths and misconceptions: All Topics | Myth Check'
+    url: /myths-and-misconcept-0d48d7-index/

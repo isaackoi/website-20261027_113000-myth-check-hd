@@ -1,0 +1,467 @@
+{
+  "schema_version": "1.2",
+  "site": {
+    "id": "misconceptions-c2-sample",
+    "identity_source": "legacy_job_id",
+    "network": "unassigned",
+    "title": "Myth Check",
+    "canonical_url": "",
+    "description": "Practical guides on Myth Check, organized for fast browsing and comparison.",
+    "primary_focus_id": "logical-thinking",
+    "focus_ids": [
+      "logical-thinking",
+      "education",
+      "science"
+    ],
+    "primary_topic_ids": [],
+    "primary_subject_ids": []
+  },
+  "release_id": "release-6586cb892efa42bc13e0",
+  "previous_release_id": "",
+  "generated_at": "2026-10-27T11:19:33Z",
+  "entity_entrypoints": [],
+  "pages": [
+    {
+      "id": "misconceptions-c2-sample:page:4c1adcd28951cd19b91e4544",
+      "logical_id": "myths-and-misconcept-0d48d7",
+      "identity_source": "article_manifest",
+      "canonical_url": "/myths-and-misconceptions/",
+      "title": "Why Convincing Myths Survive the Facts",
+      "summary": "Myths and misconceptions are not simply foolish beliefs held by poorly informed people. They are ordinary products of human memory, reasoning and social life. A myth is usually a widely shared explanatory story or claim; a misconception is an inaccurate understanding held by an individual or group.",
+      "hierarchy": {
+        "level": 1,
+        "parent_id": null
+      },
+      "tags": [
+        "myths-and-misconceptions"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:cc82faa44075af0bc42dc4ab8208f229d8cc61a33a9bca7e852c86a7bf32e168",
+      "reconciliation_fingerprint": "sha256:5a267c3cd101ab48e8eea11326a63fd162e4f22300f7c804010188f5eb9d00e4",
+      "updated_at": "2026-10-27 11:15:34"
+    },
+    {
+      "id": "misconceptions-c2-sample:page:70621da065e355a9fc7c0594",
+      "logical_id": "myths-and-misconcept-0d48d7-corrections-and-back-94d425",
+      "identity_source": "article_manifest",
+      "canonical_url": "/debunking/",
+      "title": "Debunking",
+      "summary": "Corrections usually reduce false belief, while genuine backfire effects are far less common than popular accounts suggest.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "misconceptions-c2-sample:page:4c1adcd28951cd19b91e4544"
+      },
+      "tags": [
+        "myths-and-misconceptions",
+        "debunking"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:0af1d415c2fe97f796291556d753598e59f0b8fae0b681a888e932c038d6ca88",
+      "reconciliation_fingerprint": "sha256:6595d1414618494e338359b5751fc1d3f642f7a4a7a68e1aa41a3abf5edabb58",
+      "updated_at": "2026-10-27 11:15:49"
+    },
+    {
+      "id": "misconceptions-c2-sample:page:9d4b1dd3996bb476216b9bf0",
+      "logical_id": "myths-and-misconcept-0d48d7-corrections-and-back-94d425-corrections-that-sti-dcca79",
+      "identity_source": "article_manifest",
+      "canonical_url": "/better-corrections/",
+      "title": "Better Corrections",
+      "summary": "The strongest corrections lead with the truth, identify the error clearly and replace the myth with a memorable explanation.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "misconceptions-c2-sample:page:70621da065e355a9fc7c0594"
+      },
+      "tags": [
+        "myths-and-misconceptions",
+        "debunking",
+        "better-corrections"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:248b930016abef509e566172d57e31681ea1f48c76915021b832096826660bb5",
+      "reconciliation_fingerprint": "sha256:dbfa4e537056726214a78d6353b218083a3be6048a599e523c48aa54de1f2cbb",
+      "updated_at": "2026-10-27 11:18:32"
+    },
+    {
+      "id": "misconceptions-c2-sample:page:3e2f083824e3e333dfb90e99",
+      "logical_id": "myths-and-misconcept-0d48d7-corrections-and-back-94d425-fact-checks-beliefs-2e1b7d",
+      "identity_source": "article_manifest",
+      "canonical_url": "/facts-and-votes/",
+      "title": "Facts and Votes",
+      "summary": "People may accept a factual correction yet keep the same political preference because voting also reflects identity, values and trust.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "misconceptions-c2-sample:page:70621da065e355a9fc7c0594"
+      },
+      "tags": [
+        "myths-and-misconceptions",
+        "debunking",
+        "facts-and-votes"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:716b752da14d12a9f5709609f40786c777df55b2cc6f14dd6520b0f6cc14e773",
+      "reconciliation_fingerprint": "sha256:702f8f436b883c92ee0a40527955cc58d25a17211d6306217d5cb8d13e5924d1",
+      "updated_at": "2026-10-27 11:17:41"
+    },
+    {
+      "id": "misconceptions-c2-sample:page:0bc0075565024e47b82f9901",
+      "logical_id": "myths-and-misconcept-0d48d7-corrections-and-back-94d425:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "/myths-and-misconcept-0d48d7-corrections/",
+      "title": "All Topics",
+      "summary": "Guide to sub-topic pages of Debunking, covering Better Corrections and Facts and Votes.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "misconceptions-c2-sample:page:70621da065e355a9fc7c0594"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:7f193d3b9c1b33e83a704fbd27bc229beb75a236437d9ea5f20ddaabeab2a829",
+      "reconciliation_fingerprint": "sha256:4744e62f4979d5462bc1aa34b38b5a91281e677e9b89b10db69118b6dd9464be",
+      "updated_at": "2026-10-27"
+    },
+    {
+      "id": "misconceptions-c2-sample:page:821460682b1ba9d12057f90e",
+      "logical_id": "myths-and-misconcept-0d48d7-health-myths-real-co-a554b5",
+      "identity_source": "article_manifest",
+      "canonical_url": "/when-health-myths-change-real-decisions/",
+      "title": "Health Myths",
+      "summary": "Vaccine scares, antibiotic misconceptions, and brain myths show how memorable errors can shape treatment choices and public trust.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "misconceptions-c2-sample:page:4c1adcd28951cd19b91e4544"
+      },
+      "tags": [
+        "myths-and-misconceptions",
+        "health-myths"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:41e09c54399a24ee45b00016bd99a4cf7216915c10d531354bb0d3d4af03b166",
+      "reconciliation_fingerprint": "sha256:08c3669e9a7a87f0393341238062a47e869dcdb536176f22d5a887d95e9b65a1",
+      "updated_at": "2026-10-27 11:16:38"
+    },
+    {
+      "id": "misconceptions-c2-sample:page:098bd82ea4ac8d1f6676c4f2",
+      "logical_id": "myths-and-misconcept-0d48d7-health-myths-real-co-a554b5-antibiotics-viral-in-a67553",
+      "identity_source": "article_manifest",
+      "canonical_url": "/antibiotic-myths/",
+      "title": "Antibiotic Myths",
+      "summary": "Antibiotics target bacteria rather than viruses, so unnecessary use adds side effects and resistance without treating colds or flu.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "misconceptions-c2-sample:page:821460682b1ba9d12057f90e"
+      },
+      "tags": [
+        "myths-and-misconceptions",
+        "health-myths",
+        "antibiotic-myths"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:035d6eec15453d3a679e8b3dd8d4a3dc703a91087b942fa0e5152c5f5149d29a",
+      "reconciliation_fingerprint": "sha256:6fc2fd94f49102a9437f543b9476abbf14abe883567cd0494348e2721be3d99b",
+      "updated_at": "2026-10-27 11:18:28"
+    },
+    {
+      "id": "misconceptions-c2-sample:page:ffbc0670e1c4416aa931348a",
+      "logical_id": "myths-and-misconcept-0d48d7-health-myths-real-co-a554b5:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "/myths-and-misconcept-0d48d7-health-myths/",
+      "title": "All Topics",
+      "summary": "Guide to sub-topic pages of Health Myths, covering Antibiotic Myths and MMR and Autism.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "misconceptions-c2-sample:page:821460682b1ba9d12057f90e"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:a4b5063c5a70f86d0d4d0da6f250ec919c4019fee1016ef98c8b309daf4d41b3",
+      "reconciliation_fingerprint": "sha256:34c26b40baafb7a6b5932b10ea887e4796df4b4f3d35459d85a2b374ec77f8d1",
+      "updated_at": "2026-10-27"
+    },
+    {
+      "id": "misconceptions-c2-sample:page:46d133a666cc4827d86bbd0b",
+      "logical_id": "myths-and-misconcept-0d48d7-health-myths-real-co-a554b5-mmr-autism-retracted-873068",
+      "identity_source": "article_manifest",
+      "canonical_url": "/how-a-retracted-mmr-claim-kept-spreading/",
+      "title": "MMR and Autism",
+      "summary": "A small retracted case series seeded an autism scare that persisted despite large studies finding no increased risk from MMR vaccination.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "misconceptions-c2-sample:page:821460682b1ba9d12057f90e"
+      },
+      "tags": [
+        "myths-and-misconceptions",
+        "health-myths",
+        "mmr-and-autism"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:74cb64c1383d11cfc8bd0829355d9b871356a890455b10933c31ddf4f7693daf",
+      "reconciliation_fingerprint": "sha256:7dfb0d66c7c381a79c678e21365276526aa73b422199a88da1622bf90bea6c61",
+      "updated_at": "2026-10-27 11:18:36"
+    },
+    {
+      "id": "misconceptions-c2-sample:page:dea05ec9979f18c92e5fe932",
+      "logical_id": "myths-and-misconcept-0d48d7:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "/myths-and-misconcept-0d48d7-index/",
+      "title": "All Topics",
+      "summary": "Guide to sub-topic pages of Myths and misconceptions, covering Debunking, Health Myths and Verify Claims and more.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "misconceptions-c2-sample:page:4c1adcd28951cd19b91e4544"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:94c6b189f7febd68f0c076c3426521d30a0ea33d1cd834ba3acc7a6748395fac",
+      "reconciliation_fingerprint": "sha256:2acfb6993a71f5d6a4073fa989a203694e4f242e52d64203be3d9fd587c05762",
+      "updated_at": "2026-10-27"
+    },
+    {
+      "id": "misconceptions-c2-sample:page:82d0e3322011ab10e62dd49b",
+      "logical_id": "myths-and-misconcept-0d48d7-verify-claims-before-3c6d20",
+      "identity_source": "article_manifest",
+      "canonical_url": "/how-to-check-a-claim-before-sharing/",
+      "title": "Verify Claims",
+      "summary": "Tracing a claim to its origin, checking context, and reading laterally can expose errors that polished presentation conceals.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "misconceptions-c2-sample:page:4c1adcd28951cd19b91e4544"
+      },
+      "tags": [
+        "myths-and-misconceptions",
+        "verify-claims"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:2bac204621a8c7671ddf9131c67487b787ed3915ae225995fa594622ef209018",
+      "reconciliation_fingerprint": "sha256:245cdb4c198af7fb83d5ce36bd31914eab19eed252d58f55930e4a7de5c81d65",
+      "updated_at": "2026-10-27 11:16:39"
+    },
+    {
+      "id": "misconceptions-c2-sample:page:556cb2e69be71cd9a2e220ce",
+      "logical_id": "myths-and-misconcept-0d48d7-verify-claims-before-3c6d20:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "/myths-and-misconcept-0d48d7-verify/",
+      "title": "All Topics",
+      "summary": "Guide to sub-topic pages of Verify Claims, covering Check Studies and Verify Media.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "misconceptions-c2-sample:page:82d0e3322011ab10e62dd49b"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:12976f6480980cac8d2ea1f0358264629222e795e3bb9da5e647de73b935b846",
+      "reconciliation_fingerprint": "sha256:3a34785686526e892b540cbd3caf6ffd03f0fa1b8f742fcf8fc0b6e9c0ef0d59",
+      "updated_at": "2026-10-27"
+    },
+    {
+      "id": "misconceptions-c2-sample:page:47929afe1542db5571c00c1e",
+      "logical_id": "myths-and-misconcept-0d48d7-verify-claims-before-3c6d20-study-claims-vs-head-b8ac56",
+      "identity_source": "article_manifest",
+      "canonical_url": "/check-studies/",
+      "title": "Check Studies",
+      "summary": "A headline may exaggerate a study by confusing association with causation, ignoring uncertainty or extending results beyond the people tested.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "misconceptions-c2-sample:page:82d0e3322011ab10e62dd49b"
+      },
+      "tags": [
+        "myths-and-misconceptions",
+        "verify-claims",
+        "check-studies"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:38a1131a8621cbcea20327b97c2b1915bd43e37fa38dcb1dd06816a32985c79a",
+      "reconciliation_fingerprint": "sha256:043ba7c48791e2f750349c21aae8882c3ade4ef525bdaaa29c052048d7d61c37",
+      "updated_at": "2026-10-27 11:19:31"
+    },
+    {
+      "id": "misconceptions-c2-sample:page:45569c3befea5764d2836ea7",
+      "logical_id": "myths-and-misconcept-0d48d7-verify-claims-before-3c6d20-verify-viral-photos-12b833",
+      "identity_source": "article_manifest",
+      "canonical_url": "/verify-media/",
+      "title": "Verify Media",
+      "summary": "Reverse searches, keyframes, landmarks and original uploads can reveal when genuine media has been altered or placed in the wrong context.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "misconceptions-c2-sample:page:82d0e3322011ab10e62dd49b"
+      },
+      "tags": [
+        "myths-and-misconceptions",
+        "verify-claims",
+        "verify-media"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:9e0e61c375511f84c9f7c87225d890c4644061cdff891e748f7e09c4085f6578",
+      "reconciliation_fingerprint": "sha256:a07f2794b2b6d87900649fe4fcbcc68a3d28af540fa7718d2407d2e98d9bae1c",
+      "updated_at": "2026-10-27 11:17:43"
+    },
+    {
+      "id": "misconceptions-c2-sample:page:71d3ca0a34c0948799b42bcd",
+      "logical_id": "myths-and-misconcept-0d48d7-why-false-claims-fee-bfb752",
+      "identity_source": "article_manifest",
+      "canonical_url": "/belief-psychology/",
+      "title": "Belief Psychology",
+      "summary": "Familiarity, memory gaps, emotion, and social identity can make an unsupported claim feel more credible than it is.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "misconceptions-c2-sample:page:4c1adcd28951cd19b91e4544"
+      },
+      "tags": [
+        "myths-and-misconceptions",
+        "belief-psychology"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:babdd55313234ae3f1d314627b1a60e6765d84dccf2a087f0565d27da5b4cefb",
+      "reconciliation_fingerprint": "sha256:18487d7d3bfa86c58d8d7a340040ebb32c30bde01005eb17fe98aacc2801ddc2",
+      "updated_at": "2026-10-27 11:17:34"
+    },
+    {
+      "id": "misconceptions-c2-sample:page:2d67820cd7977d866c330e49",
+      "logical_id": "myths-and-misconcept-0d48d7-why-false-claims-fee-bfb752-claims-outlive-sourc-c918ab",
+      "identity_source": "article_manifest",
+      "canonical_url": "/source-memory/",
+      "title": "Source Memory",
+      "summary": "A claim may remain familiar after its warning, correction, or unreliable source has faded from memory.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "misconceptions-c2-sample:page:71d3ca0a34c0948799b42bcd"
+      },
+      "tags": [
+        "myths-and-misconceptions",
+        "belief-psychology",
+        "source-memory"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:2446b5f2c9454a94c51f5bc818baf3f21a33063758aa4e557b587fce1ad1448a",
+      "reconciliation_fingerprint": "sha256:1561a9bef27be3c77f7e7cb2581044b3602a549640f60db4643c6aee840f37e9",
+      "updated_at": "2026-10-27 11:19:24"
+    },
+    {
+      "id": "misconceptions-c2-sample:page:23d0dcaa96b58bc114f099e9",
+      "logical_id": "myths-and-misconcept-0d48d7-why-false-claims-fee-bfb752:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "/myths-and-misconcept-0d48d7-why-false/",
+      "title": "All Topics",
+      "summary": "Guide to sub-topic pages of Belief Psychology, covering Source Memory and False Consensus.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "misconceptions-c2-sample:page:71d3ca0a34c0948799b42bcd"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:0be0c09eb34f7aeb85b76d4ba7ac909e1503989b1c9692334591b50b4aa177da",
+      "reconciliation_fingerprint": "sha256:7e8d05c99bcc950b6b301a7017b107359678fb7ceb9393f2acfccb04a70835e3",
+      "updated_at": "2026-10-27"
+    },
+    {
+      "id": "misconceptions-c2-sample:page:0da65a79123a94f716017471",
+      "logical_id": "myths-and-misconcept-0d48d7-why-false-claims-fee-bfb752-repetition-false-soc-00f845",
+      "identity_source": "article_manifest",
+      "canonical_url": "/false-consensus/",
+      "title": "False Consensus",
+      "summary": "Repeated messages from one source can resemble broad agreement when reposts, recommendations, and attribution hide their common origin.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "misconceptions-c2-sample:page:71d3ca0a34c0948799b42bcd"
+      },
+      "tags": [
+        "myths-and-misconceptions",
+        "belief-psychology",
+        "false-consensus"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:30d902bd37f1e1706d1ba4b4348ec6dfa239a8be8a8e8730df7707a7242f5528",
+      "reconciliation_fingerprint": "sha256:86616ef2d64b2361814c99cf18caed49ac99f6c0abd4b69ec184522278d7a369",
+      "updated_at": "2026-10-27 11:19:18"
+    }
+  ]
+}
